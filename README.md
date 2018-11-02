@@ -1,8 +1,9 @@
+#  Project Arcade Game
 
 This is my Frogger Game for Udacity's Front-End Web Developer Nanodegree
 
 
-Installation:
+## How to Run:
 
 * Download the repository:
 * Click download ZIP on the right of the screen, then extract the zip file to your computer, or clone the repository using git.
@@ -10,7 +11,7 @@ Installation:
 * Double-click index.html to open the game in your browser.
 
 
-Gameplay:
+## Gameplay:
 
 1. Press enter to start the game.
 2. Use the arrow keys to move.
