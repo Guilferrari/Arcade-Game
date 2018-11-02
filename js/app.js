@@ -246,7 +246,7 @@ Player.prototype.update = function() {
     // clearTimeout(heart.heartWaitTime);
     reset('gameOver');
     }
-    if (this.playerScore >= 100) {
+    if (this.playerScore >= 500) {
     // clearTimeout(heart.heartWaitTime);
     reset('gameWin');
     }

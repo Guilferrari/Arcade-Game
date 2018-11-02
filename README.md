@@ -1,6 +1,5 @@
 
-===============================
-This is my Frogger clone for Udacity's Front-End Web Developer Nanodegree
+This is my Frogger Game for Udacity's Front-End Web Developer Nanodegree
 
 
 Installation:
@@ -9,8 +8,6 @@ Installation:
 * Click download ZIP on the right of the screen, then extract the zip file to your computer, or clone the repository using git.
 * Navigate to where you unzipped the file or cloned the repository.
 * Double-click index.html to open the game in your browser.
-
-
 
 
 Gameplay:
